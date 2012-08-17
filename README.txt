@@ -1,0 +1,1 @@
+Textbook level implementations of fundamental data structures using C#. For learning, understanding and demonstrating purpose.
